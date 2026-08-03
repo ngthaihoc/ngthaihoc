@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Welly Nguyen (ngthaihoc)</h1>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ngthaihoc&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngthaihoc&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
+  <img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/master/profile-summary-card-output/default/0-profile-details.svg" alt="GitHub Profile Details" /><br/>
+  <img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/master/profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per Language" />
+  <img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/master/profile-summary-card-output/default/2-most-commit-language.svg" alt="Most Commit Language" />
 </p>
 
 ---
