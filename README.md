@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Welly Nguyen (ngthaihoc)</h1>
 
-### 🌐 Connect with me
+### Socials
 
 <p align="left">
   <a href="https://github.com/ngthaihoc" target="_blank" rel="noreferrer">
@@ -28,8 +28,8 @@
 
 ---
 
-### 📊 GitHub Metrics
+### GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/github-metrics.svg" alt="GitHub Stats" />
 </p>
