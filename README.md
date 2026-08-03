@@ -28,21 +28,8 @@
 
 ---
 
-### 📊 GitHub Stats & Metrics
+### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ngthaihoc&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ngthaihoc&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 📈 Profile Summary Cards
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Profile Details" /><br/>
-  <img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
-  <img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" /><br/>
-  <img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
-  <img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
+  <img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
