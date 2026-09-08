@@ -5,29 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ngthaihoc" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/wellynguyen" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/ngthaihhoc/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
-    </picture>
-  </a>
+  <a href="https://www.linkedin.com/in/wellynguyen" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/ngthaihhoc/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://leetcode.com/u/thaihocng/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/leetcode.svg" width="32" height="32" alt="LeetCode" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ngthaihoc.vn@gmail.com" target="_blank" rel="noreferrer" title="Send email via Gmail"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/gmail.svg" width="32" height="32" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+84963672903" target="_blank" rel="noreferrer" title="+84 963 672 903"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/phone.svg" width="32" height="32" alt="+84 963 672 903" /></a>
 </p>
 
 ---
@@ -36,14 +14,15 @@
 
 - 🔭 Developing modern web applications & services with **Java (Spring)**, **Vue.js**, and **C#**.
 - 🌱 Actively practicing **Data Structures & Algorithms (DSA)**, **System Design**, and **Clean Architecture**.
-- 💬 Ask me about: **Java**, **Vue.js**, **Web Development**, and **Problem Solving**.
+- 💡 Algorithmic problem solving on <a href="https://leetcode.com/u/thaihocng/" target="_blank" rel="noreferrer">**LeetCode**</a>.
+- 📞 Phone: <a href="tel:+84963672903" target="_blank" rel="noreferrer">**+84 963 672 903**</a> &nbsp;|&nbsp; ✉️ Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ngthaihoc.vn@gmail.com" target="_blank" rel="noreferrer">**ngthaihoc.vn@gmail.com**</a>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=java,spring,vue,js,ts,html,css,cs,mysql,git,github,vscode,idea&theme=dark" alt="Tech Stack" />
   </a>
 </p>
