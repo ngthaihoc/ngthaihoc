@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/wellynguyen" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/ngthaihhoc/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://leetcode.com/u/thaihocng/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/leetcode.svg" width="32" height="32" alt="LeetCode" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ngthaihoc.vn@gmail.com" target="_blank" rel="noreferrer" title="Send email via Gmail"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/gmail.svg" width="32" height="32" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+84963672903" target="_blank" rel="noreferrer" title="+84 963 672 903"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/phone.svg" width="32" height="32" alt="+84 963 672 903" /></a>
+  <a href="https://www.linkedin.com/in/wellynguyen" target="_blank" rel="noreferrer" title="LinkedIn"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/ngthaihhoc/" target="_blank" rel="noreferrer" title="Facebook"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/facebook.svg" width="36" height="36" alt="Facebook" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://zaloapp.com/qr/p/14jri1j9tkhk4" target="_blank" rel="noreferrer" title="Zalo (http://zaloapp.com/qr/p/14jri1j9tkhk4)"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/zalo.svg" width="36" height="36" alt="Zalo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://leetcode.com/u/thaihocng/" target="_blank" rel="noreferrer" title="LeetCode"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/leetcode.svg" width="36" height="36" alt="LeetCode" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ngthaihoc.vn@gmail.com" target="_blank" rel="noreferrer" title="Soạn thư Gmail"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/gmail.svg" width="36" height="36" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/ngthaihoc/ngthaihoc/blob/main/CONTACT.md" target="_blank" rel="noreferrer" title="Xem số điện thoại (VN / Quốc tế) & WhatsApp"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/phone.svg" width="36" height="36" alt="Phone & WhatsApp" /></a>
 </p>
 
 ---
@@ -15,7 +15,20 @@
 - 🔭 Developing modern web applications & services with **Java (Spring)**, **Vue.js**, and **C#**.
 - 🌱 Actively practicing **Data Structures & Algorithms (DSA)**, **System Design**, and **Clean Architecture**.
 - 💡 Algorithmic problem solving on <a href="https://leetcode.com/u/thaihocng/" target="_blank" rel="noreferrer">**LeetCode**</a>.
-- 📞 Phone: <a href="tel:+84963672903" target="_blank" rel="noreferrer">**+84 963 672 903**</a> &nbsp;|&nbsp; ✉️ Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ngthaihoc.vn@gmail.com" target="_blank" rel="noreferrer">**ngthaihoc.vn@gmail.com**</a>
+- 📱 Phone: <a href="https://github.com/ngthaihoc/ngthaihoc/blob/main/CONTACT.md" target="_blank" rel="noreferrer">**+84 963 672 903** (Quốc tế) / **0963 672 903** (Việt Nam)</a> &nbsp;|&nbsp; 🟢 WhatsApp: <a href="https://wa.me/84963672903" target="_blank" rel="noreferrer">**0963 672 903**</a>
+- ✉️ Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ngthaihoc.vn@gmail.com" target="_blank" rel="noreferrer">**ngthaihoc.vn@gmail.com**</a> &nbsp;|&nbsp; 🔵 Zalo: <a href="http://zaloapp.com/qr/p/14jri1j9tkhk4" target="_blank" rel="noreferrer">**zaloapp.com/qr/p/14jri1j9tkhk4**</a>
+
+<details>
+  <summary><b>📱 Quét mã QR Zalo kết bạn</b></summary>
+  <br/>
+  <p align="left">
+    <a href="http://zaloapp.com/qr/p/14jri1j9tkhk4" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/zalo-qr.png" width="180" alt="Zalo QR Code" />
+    </a>
+    <br/>
+    <i>Link kết bạn Zalo: <a href="http://zaloapp.com/qr/p/14jri1j9tkhk4" target="_blank" rel="noreferrer">http://zaloapp.com/qr/p/14jri1j9tkhk4</a></i>
+  </p>
+</details>
 
 ---
 
