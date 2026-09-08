@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Welly Nguyen (ngthaihoc)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=Software+Developer;Java+%2B+Spring+%7C+Vue.js+%7C+C%23;Building+clean%2C+high-quality+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=Good+services+or+no+services+at+all" alt="Typing SVG" />
 </p>
 
 <p align="center">
