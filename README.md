@@ -1,66 +1,74 @@
-<h1 align="center">Hi 👋, I'm Welly Nguyen (ngthaihoc)</h1>
+# Welly Nguyen
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=Good+services+or+no+services+at+all" alt="Typing SVG" />
-</p>
+Software engineer based in Vietnam. Developing web applications and backend systems with Java (Spring), Vue.js, and C#.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/wellynguyen" target="_blank" rel="noreferrer" title="LinkedIn"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/ngthaihhoc/" target="_blank" rel="noreferrer" title="Facebook"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/facebook.svg" width="36" height="36" alt="Facebook" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://zaloapp.com/qr/p/14jri1j9tkhk4" target="_blank" rel="noreferrer" title="Zalo (http://zaloapp.com/qr/p/14jri1j9tkhk4)"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/zalo.svg" width="36" height="36" alt="Zalo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wa.me/84963672903" target="_blank" rel="noreferrer" title="WhatsApp (+84 963 672 903)"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/whatsapp.svg" width="36" height="36" alt="WhatsApp" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://leetcode.com/u/thaihocng/" target="_blank" rel="noreferrer" title="LeetCode"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/leetcode.svg" width="36" height="36" alt="LeetCode" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ngthaihoc.vn@gmail.com" target="_blank" rel="noreferrer" title="Compose via Gmail"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/gmail.svg" width="36" height="36" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/ngthaihoc/ngthaihoc/blob/main/CONTACT.md" target="_blank" rel="noreferrer" title="View Phone & WhatsApp Contact Details"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/phone.svg" width="36" height="36" alt="Phone & WhatsApp" /></a>
+> Good services or no services at all.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/wellynguyen" target="_blank" rel="noreferrer" title="LinkedIn"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/linkedin.svg" width="18" height="18" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/ngthaihoc" target="_blank" rel="noreferrer" title="GitHub"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/github.svg" width="18" height="18" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/thaihocng/" target="_blank" rel="noreferrer" title="LeetCode"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/leetcode.svg" width="18" height="18" alt="LeetCode" /></a>&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ngthaihoc.vn@gmail.com" target="_blank" rel="noreferrer" title="Gmail"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/gmail.svg" width="18" height="18" alt="Gmail" /></a>&nbsp;&nbsp;
+  <a href="https://wa.me/84963672903" target="_blank" rel="noreferrer" title="WhatsApp"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/whatsapp.svg" width="18" height="18" alt="WhatsApp" /></a>&nbsp;&nbsp;
+  <a href="http://zaloapp.com/qr/p/14jri1j9tkhk4" target="_blank" rel="noreferrer" title="Zalo"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/zalo.svg" width="18" height="18" alt="Zalo" /></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/ngthaihhoc/" target="_blank" rel="noreferrer" title="Facebook"><img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/facebook.svg" width="18" height="18" alt="Facebook" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## Overview
 
-- 🔭 Developing modern web applications & services with **Java (Spring)**, **Vue.js**, and **C#**.
-- 🌱 Actively practicing **Data Structures & Algorithms (DSA)**, **System Design**, and **Clean Architecture**.
-- <img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/leetcode.svg" width="16" height="16" style="vertical-align: middle;" /> Algorithmic problem solving on <a href="https://leetcode.com/u/thaihocng/" target="_blank" rel="noreferrer">**LeetCode**</a>.
-- <img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/phone.svg" width="16" height="16" style="vertical-align: middle;" /> Phone: <a href="https://github.com/ngthaihoc/ngthaihoc/blob/main/CONTACT.md" target="_blank" rel="noreferrer">**+84 963 672 903** (International) / **0963 672 903** (Domestic)</a> &nbsp;|&nbsp; <img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/whatsapp.svg" width="16" height="16" style="vertical-align: middle;" /> WhatsApp: <a href="https://wa.me/84963672903" target="_blank" rel="noreferrer">**0963 672 903**</a>
-- <img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/gmail.svg" width="16" height="16" style="vertical-align: middle;" /> Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ngthaihoc.vn@gmail.com" target="_blank" rel="noreferrer">**ngthaihoc.vn@gmail.com**</a> &nbsp;|&nbsp; <img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/icons/zalo.svg" width="16" height="16" style="vertical-align: middle;" /> Zalo: <a href="http://zaloapp.com/qr/p/14jri1j9tkhk4" target="_blank" rel="noreferrer">**zaloapp.com/qr/p/14jri1j9tkhk4**</a>
+- **Core Focus**: Developing web applications and backend services with Java (Spring), Vue.js, and C#.
+- **Engineering Principles**: System Design, Clean Architecture, and Data Structures & Algorithms.
+- **Problem Solving**: Algorithmic problem solving and practice on [LeetCode](https://leetcode.com/u/thaihocng/).
+
+---
+
+## Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend** | Java, Spring Boot, C#, .NET |
+| **Frontend** | Vue.js, TypeScript, JavaScript, HTML5, CSS3 |
+| **Database** | MySQL |
+| **Tools & Environment** | Git, GitHub, IntelliJ IDEA, VS Code |
+
+---
+
+## Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+---
+
+## Analytics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/github-metrics.svg" alt="GitHub Metrics and Analytics" width="100%" />
+</p>
+
+---
+
+## Contact
+
+| Channel | Contact Point | Link |
+| :--- | :--- | :--- |
+| **Email** | `ngthaihoc.vn@gmail.com` | [Send via Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=ngthaihoc.vn@gmail.com) |
+| **Phone** | `+84 963 672 903` (Intl) / `0963 672 903` (Domestic) | [Direct call](tel:+84963672903) |
+| **WhatsApp** | `+84 963 672 903` | [Chat on WhatsApp](https://wa.me/84963672903) |
+| **Zalo** | `0963 672 903` | [zaloapp.com](http://zaloapp.com/qr/p/14jri1j9tkhk4) |
+| **Directory** | Comprehensive contact reference | [CONTACT.md](CONTACT.md) |
 
 <details>
   <summary><b>Scan Zalo QR Code to Connect</b></summary>
   <br/>
   <p align="left">
     <a href="http://zaloapp.com/qr/p/14jri1j9tkhk4" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/zalo-qr.png" width="180" alt="Zalo QR Code" />
+      <img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/zalo-qr.png" width="160" alt="Zalo QR Code" />
     </a>
-    <br/>
-    <i>Direct link: <a href="http://zaloapp.com/qr/p/14jri1j9tkhk4" target="_blank" rel="noreferrer">http://zaloapp.com/qr/p/14jri1j9tkhk4</a></i>
   </p>
 </details>
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java,spring,vue,js,ts,html,css,cs,mysql,git,github,vscode,idea&theme=dark" alt="Tech Stack" />
-  </a>
-</p>
-
----
-
-### 📊 Contribution Activity
-
-<!-- Updated daily via GitHub Actions -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/assets/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ngthaihoc&theme=tokyonight&hide_border=true&card_width=495" alt="GitHub Streak" />
-</p>
-
----
-
-### 📈 GitHub Analytics & Coding Metrics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/github-metrics.svg" alt="GitHub Stats & Metrics" width="95%" />
-</p>
