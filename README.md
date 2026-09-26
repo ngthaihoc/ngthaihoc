@@ -47,8 +47,12 @@ Software engineer based in Vietnam. Developing web applications and backend syst
 
 ## Analytics
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/github-metrics.svg" alt="GitHub Metrics and Analytics" width="100%" />
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/github-metrics-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/github-metrics.svg" />
+    <img alt="GitHub Metrics and Analytics" src="https://raw.githubusercontent.com/ngthaihoc/ngthaihoc/main/github-metrics.svg" width="480" />
+  </picture>
 </p>
 
 ---
